@@ -1,3 +1,11 @@
+# 勤怠システムAを開発しよう！
+
+## 開発環境
+* VScode
+* Ruby
+* Rails
+* Git
+
 # README
 
 This README would normally document whatever steps are necessary to get the
